@@ -33,12 +33,12 @@ Algoritmos de classificação utilizado neste estudo:
 
  - Regressão Logistica
  - Randon Forest
- - Gradient-Boosted
+ - Redes Neurais Artificiais
 
   Vencedor: Regressão Logistica
       
-    Accuracy = 0.903153
-    Test Error = 0.0968468
+    Accuracy = 0.87
+    Test Error = 0.13
 
 Dicionário dos dados:
 
