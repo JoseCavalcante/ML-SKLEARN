@@ -27,7 +27,7 @@
 <ul>
   <li>Regressão Logistica.</li>
   <li>Randon Forest</li>
-  <li>Gradient-Boosted</li>
+  <li>Redes Neurais Artificiais</li>
 </ul>
 <p>Vencedor: <b>Regressão Logistica</b></p>
 <ul>
