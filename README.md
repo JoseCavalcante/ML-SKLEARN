@@ -31,7 +31,7 @@
 </ul>
 <p>Vencedor: <b>Regressão Logistica</b></p>
 <ul>
-  <li>Accuracy = 0.903153</li>
+  <li>Accuracy = 0.86</li>
   <ul>
     <li>Test Error = 0.0968468</li>
   </ul>
